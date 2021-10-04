@@ -13,6 +13,7 @@
     "slicemachine": "start-slicemachine --port 9999"
   },
   "dependencies": {
+    "@nuxtjs/google-analytics": "^2.4.0",
     "@prismicio/vue": "^2.0.11",
     "core-js": "^3.9.1",
     "gsap": "^3.7.1",
