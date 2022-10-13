@@ -16,6 +16,7 @@ export default {
         name: 'description',
         content: 'An independent creative studio shaping complex ideas.',
       },
+      { name: 'facebook-domain-verification', content: '6j0whyqejkimet0t80gpul0fgazrff' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@wearedatalands' },
     ],
